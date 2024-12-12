@@ -6,7 +6,7 @@ stage = StageClass()
 ###############################################
 
 
-stage.set_background("winter")
+stage.set_background("download")
 mySprite = codesters.Sprite("cardinal")
 mySprite.say("LeBaryon Evil >:).!")
 
